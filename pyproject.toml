@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/TODO/ethiotime"
-"Bug Tracker" = "https://github.com/TODO/ethiotime/issues"
+"Homepage" = "https://github.com/bikilaketema/ethiotime"
+"Bug Tracker" = "https://github.com/bikilaketema/ethiotime/issues"
 
 [tool.setuptools]
 packages = ["ethiotime"]
