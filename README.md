@@ -20,25 +20,10 @@ pip install ethiotime
 ### Local Development
 To use the library locally or contribute to it:
 ```bash
-git clone https://github.com/TODO/ethiotime.git
+git clone https://github.com/bikilaketema/ethiotime.git
 cd ethiotime
 pip install -e .
 ```
-
-## Publishing to PyPI
-
-To publish a new version of the library:
-
-1.  **Build the package**:
-    ```bash
-    python3 -m pip install --upgrade build
-    python3 -m build
-    ```
-2.  **Upload to PyPI** (requires a PyPI account):
-    ```bash
-    python3 -m pip install --upgrade twine
-    python3 -m twine upload dist/*
-    ```
 
 ## Usage
 
@@ -94,7 +79,3 @@ To run the exhaustive test suite:
 ```bash
 python3 -m unittest discover ethiotime/tests
 ```
-
-## License
-
-MIT
