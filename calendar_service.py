@@ -1,6 +1,6 @@
 from datetime import date
 from typing import Union
-import utils
+from . import utils
 
 
 class CalendarService:

@@ -1,5 +1,5 @@
 import unittest
-from time_service import TimeService
+from ..time_service import TimeService
 
 
 class TestTimeService(unittest.TestCase):

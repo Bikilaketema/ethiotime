@@ -1,6 +1,6 @@
 import unittest
 from datetime import date
-from calendar_service import CalendarService
+from ..calendar_service import CalendarService
 
 
 class TestCalendarService(unittest.TestCase):

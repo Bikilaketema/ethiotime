@@ -1,3 +1,5 @@
+from . import utils
+
 class TimeService:
     """
     Service for Ethiopian and Standard time conversions.
